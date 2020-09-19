@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ZeroTolerance</string>
+    <string name="logout">Logout</string>
+    <string name="name">Perina Medika Edutama</string>
+    <string name="visitor_name">Perina Medika Edutama</string>
+    <string name="label_id_zt">ID ZT</string>
+    <string name="label_name">Nama</string>
+    <string name="label_suhu">Suhu</string>
+    <string name="label_hp">Nomor telfon</string>
+    <string name="label_simpan">Simpan</string>
+    <string name="label_checking_header">Kode Anda</string>
+    <string name="label_checking_content">Ketikkan disini...</string>
+    <string name="label_masker">Masker</string>
+    <string name="label_demam">Demam</string>
+    <string name="label_obat_demam">Obat demam</string>
+    <string name="label_batuk_flu">Batuk / flu</string>
+    <string name="label_sesak_nafas">Sesak nafas</string>
+    <string name="label_keluar_negeri">Ke luar negeri</string>
+    <string name="label_keluar_daerah">Ke luar daerah</string>
+    <string name="label_kontak_covid">Kontak penderita covid</string>
+</resources>
